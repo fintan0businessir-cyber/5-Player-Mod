@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coop", "Coop.csproj", "{72BB5A91-B6B3-DDD7-BE6A-3317E66C6CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72BB5A91-B6B3-DDD7-BE6A-3317E66C6CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BB5A91-B6B3-DDD7-BE6A-3317E66C6CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BB5A91-B6B3-DDD7-BE6A-3317E66C6CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BB5A91-B6B3-DDD7-BE6A-3317E66C6CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ADEB8F6-EBFC-4677-86B2-3C75DEE640BB}
+	EndGlobalSection
+EndGlobal
