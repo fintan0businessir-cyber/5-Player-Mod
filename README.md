@@ -1,0 +1,2 @@
+-Put Assembly-CSharp.dll in Cuphead/Cuphead_data/Managed/
+-Put Everything else in Cuphead/
